@@ -10,7 +10,9 @@ tags:
   - privacy
   - voting
   - public-goods
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-09-19'
+authors:
+  - "lordjames"
 relatedMechanisms:
   - quadratic-funding
   - quadratic-voting
@@ -101,3 +103,10 @@ PSE positioned MACI as reusable infrastructure. Independent 2026 surveys still t
 * [Vitalik Buterin, Gitcoin Grants Round 9 retrospective (2021)](https://vitalik.eth.limo/general/2021/04/02/round9.html)
 * [State of Private Voting 2026 — PSE](https://pse.dev/articles/state-of-private-voting-2026/state-of-private-voting-2026-v2.pdf)
 * [GitHub (archived 19 Aug 2026)](https://github.com/privacy-ethereum/maci)
+
+## Overview
+- **Category**: Primitive | Privacy | Voting
+- **Status**: Active
+- **Website**: https://maci.pse.dev/
+- **Blockchains**: Ethereum
+- **Social Links**: [Docs](https://maci.pse.dev/docs/introduction), [GitHub (archived)](https://github.com/privacy-ethereum/maci)
